@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-oclif-typescript",
+  "name": "eslint-config-oclif-typescript-ramda-fix",
   "description": "eslint config for Typscript'd oclif",
   "version": "1.0.2",
   "author": "oclif",
